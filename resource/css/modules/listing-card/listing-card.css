@@ -1,0 +1,7 @@
+
+.listing-card{
+    @apply w-96 border-2 border-red ;
+}
+.listing-card li{}
+
+

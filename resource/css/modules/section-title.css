@@ -1,0 +1,12 @@
+.section-title{
+    @apply flex flex-col text-center;
+    .title{
+        @apply block font-manrope;
+        span{
+            @apply italic font-playfair;
+        }
+    }
+    .desc{
+        @apply mt-4 text-16px text-primary font-normal ;
+    }
+}
