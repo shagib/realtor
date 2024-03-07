@@ -130,5 +130,5 @@
   */
 
 .custom-container {
-  @apply max-w-[1656px] mx-auto px-3;
+  @apply max-w-[1730px] mx-auto px-3;
 }
